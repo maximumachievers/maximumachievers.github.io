@@ -1,0 +1,22 @@
+# Site Settings
+title: Maximum Achievers
+slogan: Unleashing Potential
+description: Maximum Achievers Educational Services is a private limited educational consulting company which engages in many types of educational projects. Our vision is to see people reach their full potential.
+
+# Photo Slideshow
+photos:
+  - img/slideshow/BTH2communicationpics021.JPG
+  - img/slideshow/slide show  4.jpg
+  - img/slideshow/DSC01551.JPG
+  - img/slideshow/DSC01576.JPG
+  - img/slideshow/HCMTeam010-Copy.JPG
+
+# Color Settings (hex-codes without the leading hash-tag)
+color:
+  primary: e2c800
+  secondary: A2A2A2
+  secondary-dark: 454545
+
+# Build Settings (you probably don't want to change these)
+markdown: kramdown
+permalink: pretty
