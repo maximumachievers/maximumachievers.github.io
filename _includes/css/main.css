@@ -296,6 +296,17 @@ section.success {
     }
 }
 
+#contact .contactForm {
+    text-align: center;
+}
+#contact .contactForm > iframe {
+    max-width: 700px;
+    width: 100%;
+}
+#contact .contactForm > a {
+    display: none !important;
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
