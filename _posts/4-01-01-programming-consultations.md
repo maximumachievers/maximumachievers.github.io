@@ -1,7 +1,7 @@
 ---
 layout: default
 img: /img/photos/programming.jpg
-description: Schools and Educational Institutions consistently need to showcase their students’ talents
+description: Schools and Educational Institutions regularly promote their students’ talents
 published: true
 ---
 
